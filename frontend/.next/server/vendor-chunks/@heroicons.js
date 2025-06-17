@@ -1,0 +1,25 @@
+"use strict";
+/*
+ * ATTENTION: An "eval-source-map" devtool has been used.
+ * This devtool is neither made for production nor for readable output files.
+ * It uses "eval()" calls to create a separate source file with attached SourceMaps in the browser devtools.
+ * If you are trying to read the output file, select a different devtool (https://webpack.js.org/configuration/devtool/)
+ * or disable the default devtool with "devtool: false".
+ * If you are looking for production-ready output files, see mode: "production" (https://webpack.js.org/configuration/mode/).
+ */
+exports.id = "vendor-chunks/@heroicons";
+exports.ids = ["vendor-chunks/@heroicons"];
+exports.modules = {
+
+/***/ "(ssr)/./node_modules/@heroicons/react/24/solid/esm/PaperAirplaneIcon.js":
+/*!*************************************************************************!*\
+  !*** ./node_modules/@heroicons/react/24/solid/esm/PaperAirplaneIcon.js ***!
+  \*************************************************************************/
+/***/ ((__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) => {
+
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ \"(ssr)/./node_modules/next/dist/server/future/route-modules/app-page/vendored/ssr/react.js\");\n\nfunction PaperAirplaneIcon({ title, titleId, ...props }, svgRef) {\n    return /*#__PURE__*/ react__WEBPACK_IMPORTED_MODULE_0__.createElement(\"svg\", Object.assign({\n        xmlns: \"http://www.w3.org/2000/svg\",\n        viewBox: \"0 0 24 24\",\n        fill: \"currentColor\",\n        \"aria-hidden\": \"true\",\n        \"data-slot\": \"icon\",\n        ref: svgRef,\n        \"aria-labelledby\": titleId\n    }, props), title ? /*#__PURE__*/ react__WEBPACK_IMPORTED_MODULE_0__.createElement(\"title\", {\n        id: titleId\n    }, title) : null, /*#__PURE__*/ react__WEBPACK_IMPORTED_MODULE_0__.createElement(\"path\", {\n        d: \"M3.478 2.404a.75.75 0 0 0-.926.941l2.432 7.905H13.5a.75.75 0 0 1 0 1.5H4.984l-2.432 7.905a.75.75 0 0 0 .926.94 60.519 60.519 0 0 0 18.445-8.986.75.75 0 0 0 0-1.218A60.517 60.517 0 0 0 3.478 2.404Z\"\n    }));\n}\nconst ForwardRef = /*#__PURE__*/ react__WEBPACK_IMPORTED_MODULE_0__.forwardRef(PaperAirplaneIcon);\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (ForwardRef);\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKHNzcikvLi9ub2RlX21vZHVsZXMvQGhlcm9pY29ucy9yZWFjdC8yNC9zb2xpZC9lc20vUGFwZXJBaXJwbGFuZUljb24uanMiLCJtYXBwaW5ncyI6Ijs7Ozs7QUFBK0I7QUFDL0IsU0FBU0Msa0JBQWtCLEVBQ3pCQyxLQUFLLEVBQ0xDLE9BQU8sRUFDUCxHQUFHQyxPQUNKLEVBQUVDLE1BQU07SUFDUCxPQUFPLFdBQVcsR0FBRUwsZ0RBQW1CLENBQUMsT0FBT08sT0FBT0MsTUFBTSxDQUFDO1FBQzNEQyxPQUFPO1FBQ1BDLFNBQVM7UUFDVEMsTUFBTTtRQUNOLGVBQWU7UUFDZixhQUFhO1FBQ2JDLEtBQUtQO1FBQ0wsbUJBQW1CRjtJQUNyQixHQUFHQyxRQUFRRixRQUFRLFdBQVcsR0FBRUYsZ0RBQW1CLENBQUMsU0FBUztRQUMzRGEsSUFBSVY7SUFDTixHQUFHRCxTQUFTLE1BQU0sV0FBVyxHQUFFRixnREFBbUIsQ0FBQyxRQUFRO1FBQ3pEYyxHQUFHO0lBQ0w7QUFDRjtBQUNBLE1BQU1DLGFBQWEsV0FBVyxHQUFHZiw2Q0FBZ0IsQ0FBQ0M7QUFDbEQsaUVBQWVjLFVBQVVBLEVBQUMiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly9haS1ib290Y2FtcC1jaGFsbGVuZ2UtZnJvbnRlbmQvLi9ub2RlX21vZHVsZXMvQGhlcm9pY29ucy9yZWFjdC8yNC9zb2xpZC9lc20vUGFwZXJBaXJwbGFuZUljb24uanM/OWE2ZSJdLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgKiBhcyBSZWFjdCBmcm9tIFwicmVhY3RcIjtcbmZ1bmN0aW9uIFBhcGVyQWlycGxhbmVJY29uKHtcbiAgdGl0bGUsXG4gIHRpdGxlSWQsXG4gIC4uLnByb3BzXG59LCBzdmdSZWYpIHtcbiAgcmV0dXJuIC8qI19fUFVSRV9fKi9SZWFjdC5jcmVhdGVFbGVtZW50KFwic3ZnXCIsIE9iamVjdC5hc3NpZ24oe1xuICAgIHhtbG5zOiBcImh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnXCIsXG4gICAgdmlld0JveDogXCIwIDAgMjQgMjRcIixcbiAgICBmaWxsOiBcImN1cnJlbnRDb2xvclwiLFxuICAgIFwiYXJpYS1oaWRkZW5cIjogXCJ0cnVlXCIsXG4gICAgXCJkYXRhLXNsb3RcIjogXCJpY29uXCIsXG4gICAgcmVmOiBzdmdSZWYsXG4gICAgXCJhcmlhLWxhYmVsbGVkYnlcIjogdGl0bGVJZFxuICB9LCBwcm9wcyksIHRpdGxlID8gLyojX19QVVJFX18qL1JlYWN0LmNyZWF0ZUVsZW1lbnQoXCJ0aXRsZVwiLCB7XG4gICAgaWQ6IHRpdGxlSWRcbiAgfSwgdGl0bGUpIDogbnVsbCwgLyojX19QVVJFX18qL1JlYWN0LmNyZWF0ZUVsZW1lbnQoXCJwYXRoXCIsIHtcbiAgICBkOiBcIk0zLjQ3OCAyLjQwNGEuNzUuNzUgMCAwIDAtLjkyNi45NDFsMi40MzIgNy45MDVIMTMuNWEuNzUuNzUgMCAwIDEgMCAxLjVINC45ODRsLTIuNDMyIDcuOTA1YS43NS43NSAwIDAgMCAuOTI2Ljk0IDYwLjUxOSA2MC41MTkgMCAwIDAgMTguNDQ1LTguOTg2Ljc1Ljc1IDAgMCAwIDAtMS4yMThBNjAuNTE3IDYwLjUxNyAwIDAgMCAzLjQ3OCAyLjQwNFpcIlxuICB9KSk7XG59XG5jb25zdCBGb3J3YXJkUmVmID0gLyojX19QVVJFX18qLyBSZWFjdC5mb3J3YXJkUmVmKFBhcGVyQWlycGxhbmVJY29uKTtcbmV4cG9ydCBkZWZhdWx0IEZvcndhcmRSZWY7Il0sIm5hbWVzIjpbIlJlYWN0IiwiUGFwZXJBaXJwbGFuZUljb24iLCJ0aXRsZSIsInRpdGxlSWQiLCJwcm9wcyIsInN2Z1JlZiIsImNyZWF0ZUVsZW1lbnQiLCJPYmplY3QiLCJhc3NpZ24iLCJ4bWxucyIsInZpZXdCb3giLCJmaWxsIiwicmVmIiwiaWQiLCJkIiwiRm9yd2FyZFJlZiIsImZvcndhcmRSZWYiXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///(ssr)/./node_modules/@heroicons/react/24/solid/esm/PaperAirplaneIcon.js\n");
+
+/***/ })
+
+};
+;
